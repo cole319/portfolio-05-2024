@@ -34,14 +34,15 @@ This is a lightweight **demo version** of my personal portfolio website, built u
 
 ## 📁 Project Structure
 
+```css
 demo-portfolio/
 ├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── main.js
+├── styles.css
+├── mediaquery.css
+├── script.js
 └── assets/
     └── images, icons, etc.
+```
 
 
 ---
